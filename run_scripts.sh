@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Create data_clean directory if it doesn't exist
+if [ ! -d "./data_clean" ]; then
+  mkdir data_clean
+fi
+
 # Run age.py
 echo "Running age script"
 python3 ./scripts/age.py
