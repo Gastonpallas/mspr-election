@@ -10,4 +10,13 @@ column_rm = ['prenom', 'libelle_departement']
 
 df = df.drop(columns=column_rm)
 df = df.loc[df['code_departement'] != 'fr_etranger']
+
+correspondance_partis = {'nom': ['MACRON', 'LE PEN', 'MÉLENCHON', 'ZEMMOUR', 'JADOT', 'LASSALLE', 'PÉCRESSE','ROUSSEL', 'HIDALGO', 'DUPONT-AIGNAN', 'POUTOU', 'ARTHAUD', 'abstentions', 'blancs', 'nuls'],
+                         'parti_politique': ['LREM', 'RN', 'LFI', 'Reconuête', 'EELV', 'Résistons', 'LR', 'PCF', 'PS', 'DLF', 'NPA', 'LO', 'abstentions','blancs', 'nuls' ]}
+
+df_correspondance = pd.DataFrame(correspondance_partis)
+
+df = pd.merge(df, df_correspondance, on='nom', how='left')
+df = df.drop('nom', axis=1)
+
 df.to_csv(output_path, index=False)
