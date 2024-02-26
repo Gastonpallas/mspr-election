@@ -1,0 +1,1441 @@
+code_departement;nom_departement;total_population;Chômage;code_region;nom_region;Nombre de créations d'entreprises;voix;parti_politique
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;1658;LO
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;5938;PC
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;92206;LR
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;10876;Ré
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;86755;RN
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;27530;Re
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;57832;LF
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;5644;PS
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;15843;EE
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;17572;LR
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;2172;NP
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;8998;DL
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;97541;ab
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;5641;bl
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417;1903;nu
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;2038;LO
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;5968;PC
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;58721;LR
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;6468;Ré
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;104342;RN
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;18266;Re
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;41172;LF
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;2983;PS
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;7074;EE
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;10920;LR
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;2118;NP
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;5790;DL
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;101089;ab
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;3767;bl
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422;2828;nu
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;1359;LO
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;8119;PC
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;49706;LR
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;7782;Ré
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;50315;RN
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;12361;Re
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;31013;LF
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;3280;PS
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;5982;EE
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;10319;LR
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;1503;NP
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;4216;DL
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;58497;ab
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;3749;bl
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355;1790;nu
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;505;LO
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;2721;PC
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;20800;LR
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;4309;Ré
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;26010;RN
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;7926;Re
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;21856;LF
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;1396;PS
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;3957;EE
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;3834;LR
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;865;NP
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;2504;DL
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;29290;ab
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;1478;bl
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629;624;nu
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;1627;LO
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;8858;PC
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;139707;LR
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;12767;Ré
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;148919;RN
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;78208;Re
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;92345;LF
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;5414;PS
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;23374;EE
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;31260;LR
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;2989;NP
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;13307;DL
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;208250;ab
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;7550;bl
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273;4007;nu
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;1081;LO
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;3009;PC
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;31656;LR
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;4084;Ré
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;48242;RN
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;8771;Re
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;22281;LF
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;1741;PS
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;3446;EE
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;5556;LR
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;1112;NP
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;2957;DL
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;49368;ab
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;1909;bl
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533;984;nu
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;1219;LO
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;5710;PC
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;45353;LR
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;9033;Ré
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;49594;RN
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;14199;Re
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;42837;LF
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;4189;PS
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;8544;EE
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;9553;LR
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;1817;NP
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;4927;DL
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;54114;ab
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;3311;bl
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342;1459;nu
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;417;LO
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;2701;PC
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;18071;LR
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;7532;Ré
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;21958;RN
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;5821;Re
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;23908;LF
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;3208;PS
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;3020;EE
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;2724;LR
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;723;NP
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;1621;DL
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;25028;ab
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;1532;bl
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074;775;nu
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;1005;LO
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;3094;PC
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;38321;LR
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;3787;Ré
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;49316;RN
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;11374;Re
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;22483;LF
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;1720;PS
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;4619;EE
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;8923;LR
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;1062;NP
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;3966;DL
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;52384;ab
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;2339;bl
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559;1158;nu
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;1026;LO
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;5622;PC
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;43104;LR
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;12382;Ré
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;64027;RN
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;18434;Re
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;42039;LF
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;6166;PS
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;6322;EE
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;7350;LR
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;1748;NP
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;4206;DL
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;62972;ab
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;2962;bl
+11;Aude                   ;379775;10;76;Occitanie                 ;5394;1567;nu
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;894;LO
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;4515;PC
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;47430;LR
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;14825;Ré
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;34357;RN
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;10112;Re
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;32734;LF
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;4470;PS
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;6746;EE
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;9988;LR
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;1354;NP
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;3477;DL
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;43833;ab
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;3079;bl
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219;1654;nu
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;3687;LO
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;7015;PC
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;177069;LR
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;14652;Ré
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;145883;RN
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;40458;Re
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;105055;LF
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;8348;PS
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;28573;EE
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;24812;LR
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;4158;NP
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;17009;DL
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;190224;ab
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;8335;bl
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712;3434;nu
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;3578;LO
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;24295;PC
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;229038;LR
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;24256;Ré
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;264753;RN
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;108617;Re
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;237971;LF
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;11760;PS
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;42109;EE
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;36229;LR
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;5963;NP
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;20051;DL
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;383816;ab
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;13341;bl
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496;5407;nu
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;2757;LO
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;8777;PC
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;120366;LR
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;9816;Ré
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;91774;RN
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;22255;Re
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;73950;LF
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;6848;PS
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;19621;EE
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;18383;LR
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;3764;NP
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;7920;DL
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;117799;ab
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;5547;bl
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602;2571;nu
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;555;LO
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;2496;PC
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;25038;LR
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;6848;Ré
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;21570;RN
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;4906;Re
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;12944;LF
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;1810;PS
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;2751;EE
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;6987;LR
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;650;NP
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;1547;DL
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;25019;ab
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;1803;bl
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266;821;nu
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;1319;LO
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;5374;PC
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;53126;LR
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;8482;Ré
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;50432;RN
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;10617;Re
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;37305;LF
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;4003;PS
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;7557;EE
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;8343;LR
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;1763;NP
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;4345;DL
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;59909;ab
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;3293;bl
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870;1740;nu
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;2330;LO
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;10002;PC
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;113753;LR
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;14335;Ré
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;99790;RN
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;24347;Re
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;71633;LF
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;6857;PS
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;19012;EE
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;19316;LR
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;3403;NP
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;9289;DL
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;116437;ab
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;5918;bl
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425;2780;nu
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;1304;LO
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;5749;PC
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;43497;LR
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;5495;Ré
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;44772;RN
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;10822;Re
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;27901;LF
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;2585;PS
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;5028;EE
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;8147;LR
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;1463;NP
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;3770;DL
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;59808;ab
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;3146;bl
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944;1083;nu
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;885;LO
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;6292;PC
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;33125;LR
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;10177;Ré
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;31658;RN
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;8012;Re
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;27731;LF
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;3605;PS
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;5040;EE
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;12278;LR
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;1179;NP
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;2618;DL
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;38430;ab
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;2517;bl
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587;1485;nu
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;197;LO
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;1850;PC
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;12932;LR
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;6729;Ré
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;20139;RN
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;9199;Re
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;9330;LF
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;624;PS
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;2266;EE
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;3772;LR
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;608;NP
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;1215;DL
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;42366;ab
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;1130;bl
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226;1561;nu
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;490;LO
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;2430;PC
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;15542;LR
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;4275;Ré
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;16772;RN
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;3501;Re
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;13679;LF
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;1641;PS
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;1906;EE
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;4391;LR
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;665;NP
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;1556;DL
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;21967;ab
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;1388;bl
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015;743;nu
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;1775;LO
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;5721;PC
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;80734;LR
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;8183;Ré
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;69110;RN
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;21651;Re
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;53875;LF
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;5126;PS
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;13462;EE
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;14344;LR
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;2286;NP
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;6478;DL
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;77886;ab
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;4577;bl
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758;1651;nu
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;2603;LO
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;11628;PC
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;113656;LR
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;11949;Ré
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;79850;RN
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;17319;Re
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;74226;LF
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;8279;PS
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;19349;EE
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;17235;LR
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;3895;NP
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;6404;DL
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;96597;ab
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;5722;bl
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416;3040;nu
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;1644;LO
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;4538;PC
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;68446;LR
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;7014;Ré
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;47903;RN
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;8803;Re
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;39120;LF
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;4340;PS
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;10074;EE
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;9257;LR
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;2134;NP
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;4531;DL
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;59403;ab
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;3839;bl
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420;2168;nu
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;1294;LO
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;8855;PC
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;58532;LR
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;15850;Ré
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;63327;RN
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;15800;Re
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;50054;LF
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;5362;PS
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;8563;EE
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;11280;LR
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;2223;NP
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;5416;DL
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;64856;ab
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;3636;bl
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293;3120;nu
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;2069;LO
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;5001;PC
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;76338;LR
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;8688;Ré
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;66703;RN
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;19486;Re
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;55587;LF
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;4902;PS
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;13096;EE
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;15107;LR
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;2345;NP
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;7775;DL
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;84117;ab
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;4989;bl
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140;2176;nu
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;2041;LO
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;6752;PC
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;72228;LR
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;9945;Ré
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;70574;RN
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;22010;Re
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;65258;LF
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;5311;PS
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;14234;EE
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;13204;LR
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;2109;NP
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;7758;DL
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;84289;ab
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;4577;bl
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427;1898;nu
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;2831;LO
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;13480;PC
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;164503;LR
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;11610;Ré
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;105862;RN
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;39284;Re
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;167310;LF
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;7944;PS
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;29562;EE
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;33046;LR
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;4306;NP
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;15203;DL
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;192200;ab
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;8954;bl
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093;3405;nu
+27;Eure                   ;596710;7;28;Normandie                 ;6626;2197;LO
+27;Eure                   ;596710;7;28;Normandie                 ;6626;7056;PC
+27;Eure                   ;596710;7;28;Normandie                 ;6626;83058;LR
+27;Eure                   ;596710;7;28;Normandie                 ;6626;7768;Ré
+27;Eure                   ;596710;7;28;Normandie                 ;6626;102952;RN
+27;Eure                   ;596710;7;28;Normandie                 ;6626;20930;Re
+27;Eure                   ;596710;7;28;Normandie                 ;6626;55571;LF
+27;Eure                   ;596710;7;28;Normandie                 ;6626;4027;PS
+27;Eure                   ;596710;7;28;Normandie                 ;6626;11477;EE
+27;Eure                   ;596710;7;28;Normandie                 ;6626;13552;LR
+27;Eure                   ;596710;7;28;Normandie                 ;6626;2710;NP
+27;Eure                   ;596710;7;28;Normandie                 ;6626;7563;DL
+27;Eure                   ;596710;7;28;Normandie                 ;6626;106463;ab
+27;Eure                   ;596710;7;28;Normandie                 ;6626;5085;bl
+27;Eure                   ;596710;7;28;Normandie                 ;6626;1789;nu
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;1419;LO
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;4267;PC
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;59869;LR
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;5694;Ré
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;61960;RN
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;14803;Re
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;40529;LF
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;3076;PS
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;7904;EE
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;13003;LR
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;1766;NP
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;5731;DL
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;78960;ab
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;3489;bl
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905;1418;nu
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;3627;LO
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;15340;PC
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;174894;LR
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;18320;Ré
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;100890;RN
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;25607;Re
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;116591;LF
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;13077;PS
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;33200;EE
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;26541;LR
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;6266;NP
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;8566;DL
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;154870;ab
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;8692;bl
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302;3220;nu
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;1768;LO
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;12123;PC
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;88278;LR
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;15162;Ré
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;121480;RN
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;38479;Re
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;88827;LF
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;6585;PS
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;14974;EE
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;15460;LR
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;2706;NP
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;8137;DL
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;132723;ab
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;5840;bl
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675;2496;nu
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;529;LO
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;3128;PC
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;28970;LR
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;11720;Ré
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;26015;RN
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;8396;Re
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;21353;LF
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;3861;PS
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;4090;EE
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;5126;LR
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;793;NP
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;2418;DL
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;28267;ab
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;1762;bl
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434;850;nu
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;3679;LO
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;21522;PC
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;256179;LR
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;37725;Ré
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;191542;RN
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;58321;Re
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;194775;LF
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;19598;PS
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;46677;EE
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;37575;LR
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;8734;NP
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;15693;DL
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;249014;ab
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;12367;bl
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877;5147;nu
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;2265;LO
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;4649;PC
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;107248;LR
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;11063;Ré
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;106937;RN
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;30284;Re
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;66238;LF
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;4881;PS
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;18963;EE
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;15994;LR
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;2842;NP
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;13745;DL
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;137861;ab
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;6382;bl
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749;2386;nu
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;257;LO
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;2687;PC
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;13773;LR
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;8601;Ré
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;21998;RN
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;9657;Re
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;10368;LF
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;959;PS
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;2520;EE
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;5555;LR
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;762;NP
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;1374;DL
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;48263;ab
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;1463;bl
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861;877;nu
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;3006;LO
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;16307;PC
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;196712;LR
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;35479;Ré
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;133254;RN
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;50613;Re
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;188867;LF
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;19658;PS
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;42599;EE
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;27153;LR
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;4888;NP
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;12443;DL
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;183366;ab
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;10129;bl
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199;5847;nu
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;1020;LO
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;3493;PC
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;32417;LR
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;7817;Ré
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;38629;RN
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;9529;Re
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;24332;LF
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;2491;PS
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;5796;EE
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;9560;LR
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;1205;NP
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;3366;DL
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;37000;ab
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;2837;bl
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537;1214;nu
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;696;LO
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;1833;PC
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;21886;LR
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;3327;Ré
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;34331;RN
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;6450;Re
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;13228;LF
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;1305;PS
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;2580;EE
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;4841;LR
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;747;NP
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;2584;DL
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;33273;ab
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;1489;bl
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466;819;nu
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;1880;LO
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;5997;PC
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;130422;LR
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;13371;Ré
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;87744;RN
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;33353;Re
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;78062;LF
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;6606;PS
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;29948;EE
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;22349;LR
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;3232;NP
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;14175;DL
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;129384;ab
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;6918;bl
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759;2224;nu
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;1171;LO
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;2836;PC
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;30204;LR
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;4820;Ré
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;46618;RN
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;9675;Re
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;21089;LF
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;2345;PS
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;4292;EE
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;6754;LR
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;1295;NP
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;3640;DL
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;39039;ab
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;2364;bl
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185;1573;nu
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;1457;LO
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;8030;PC
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;54951;LR
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;9973;Ré
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;45357;RN
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;10796;Re
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;43137;LF
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;5654;PS
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;7877;EE
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;9544;LR
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;1787;NP
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;3555;DL
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;55484;ab
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;3787;bl
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081;2353;nu
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;428;LO
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;1925;PC
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;20507;LR
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;3871;Ré
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;19696;RN
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;6164;Re
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;19718;LF
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;1459;PS
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;5013;EE
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;4511;LR
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;801;NP
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;2142;DL
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;25357;ab
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;1395;bl
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484;532;nu
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;636;LO
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;4539;PC
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;33692;LR
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;14761;Ré
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;29938;RN
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;8714;Re
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;26449;LF
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;3315;PS
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;4872;EE
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;4560;LR
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;1003;NP
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;2409;DL
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;39595;ab
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;2064;bl
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986;896;nu
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;2306;LO
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;13170;PC
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;287494;LR
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;11260;Ré
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;64812;RN
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;62761;Re
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;199640;LF
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;10518;PS
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;47103;EE
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;62231;LR
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;3704;NP
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;9743;DL
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;208790;ab
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;11841;bl
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273;2294;nu
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;2580;LO
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;14165;PC
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;142306;LR
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;22068;Ré
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;165734;RN
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;57751;Re
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;154819;LF
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;12150;PS
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;28057;EE
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;23230;LR
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;4393;NP
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;11475;DL
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;195766;ab
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;8867;bl
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697;4004;nu
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;3783;LO
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;12696;PC
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;205882;LR
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;13985;Ré
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;101797;RN
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;27463;Re
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;132510;LF
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;13973;PS
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;42613;EE
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;26194;LR
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;5376;NP
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;10560;DL
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;161427;ab
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;9511;bl
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477;3866;nu
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;1085;LO
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;3702;PC
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;31498;LR
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;4984;Ré
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;34516;RN
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;7438;Re
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;20954;LF
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;2464;PS
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;3726;EE
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;6589;LR
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;1155;NP
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;2886;DL
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;41406;ab
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;2451;bl
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923;1246;nu
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;2243;LO
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;7835;PC
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;101503;LR
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;8520;Ré
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;70553;RN
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;19931;Re
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;68012;LF
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;6216;PS
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;16245;EE
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;16279;LR
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;2882;NP
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;7271;DL
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;105536;ab
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;5437;bl
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165;2039;nu
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;3479;LO
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;14694;PC
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;180533;LR
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;17025;Ré
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;154799;RN
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;47450;Re
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;153474;LF
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;12736;PS
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;40378;EE
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;28575;LR
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;4826;NP
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;14327;DL
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;198676;ab
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;10990;bl
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361;3478;nu
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;1053;LO
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;3166;PC
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;36139;LR
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;6218;Ré
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;38179;RN
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;9657;Re
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;28882;LF
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;2635;PS
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;6388;EE
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;7424;LR
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;1343;NP
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;4143;DL
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;41634;ab
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;2625;bl
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781;1111;nu
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;1115;LO
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;8176;PC
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;69459;LR
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;24308;Ré
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;58646;RN
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;16817;Re
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;44548;LF
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;9071;PS
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;8628;EE
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;10393;LR
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;1975;NP
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;4914;DL
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;65654;ab
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;4033;bl
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353;1600;nu
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;1246;LO
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;4507;PC
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;50480;LR
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;5483;Ré
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;50212;RN
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;12703;Re
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;30377;LF
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;3165;PS
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;7097;EE
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;9586;LR
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;1527;NP
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;4427;DL
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;59350;ab
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;3181;bl
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585;1377;nu
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;2390;LO
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;9017;PC
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;104003;LR
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;11928;Ré
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;97764;RN
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;28706;Re
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;78169;LF
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;6970;PS
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;16656;EE
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;18539;LR
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;2767;NP
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;9029;DL
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;118592;ab
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;6664;bl
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155;2600;nu
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;4712;LO
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;18322;PC
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;256609;LR
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;18298;Ré
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;135702;RN
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;42761;Re
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;187977;LF
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;18369;PS
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;60072;EE
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;37541;LR
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;7280;NP
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;14779;DL
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;236339;ab
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;13373;bl
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606;4559;nu
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;1959;LO
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;7530;PC
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;97004;LR
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;8483;Ré
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;85832;RN
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;22878;Re
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;63486;LF
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;5656;PS
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;14401;EE
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;18086;LR
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;2433;NP
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;7674;DL
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;114468;ab
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;5512;bl
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276;2148;nu
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;618;LO
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;3559;PC
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;27311;LR
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;8032;Ré
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;21422;RN
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;6123;Re
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;25932;LF
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;2766;PS
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;4603;EE
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;5648;LR
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;976;NP
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;2400;DL
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;27164;ab
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;1767;bl
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117;957;nu
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;889;LO
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;4970;PC
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;42568;LR
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;13600;Ré
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;50290;RN
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;15646;Re
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;34044;LF
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;3357;PS
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;5686;EE
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;7703;LR
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;1437;NP
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;3912;DL
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;52907;ab
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;2793;bl
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179;1502;nu
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;235;LO
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;1343;PC
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;10739;LR
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;4722;Ré
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;10497;RN
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;3148;Re
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;9153;LF
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;1045;PS
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;1736;EE
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;3039;LR
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;426;NP
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;913;DL
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;11680;ab
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;741;bl
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721;395;nu
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;3071;LO
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;8362;PC
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;157063;LR
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;11036;Ré
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;89433;RN
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;21704;Re
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;80616;LF
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;8801;PS
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;26635;EE
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;21538;LR
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;3663;NP
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;9420;DL
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;136866;ab
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;8072;bl
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515;2983;nu
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;2249;LO
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;7368;PC
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;92642;LR
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;9421;Ré
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;69770;RN
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;13990;Re
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;46940;LF
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;5853;PS
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;11873;EE
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;14746;LR
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;2720;NP
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;6886;DL
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;93460;ab
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;4747;bl
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244;1948;nu
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;1778;LO
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;5307;PC
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;78472;LR
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;6921;Ré
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;83756;RN
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;19501;Re
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;42858;LF
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;3542;PS
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;9561;EE
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;14357;LR
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;1894;NP
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;6159;DL
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;101010;ab
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;3826;bl
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453;1702;nu
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;1273;LO
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;3313;PC
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;60755;LR
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;4673;Ré
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;37376;RN
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;8042;Re
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;25608;LF
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;3468;PS
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;7934;EE
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;9236;LR
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;1372;NP
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;3858;DL
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;52812;ab
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;3483;bl
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236;1519;nu
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;2373;LO
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;7961;PC
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;95252;LR
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;8739;Ré
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;97243;RN
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;23518;Re
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;73892;LF
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;6362;PS
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;14588;EE
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;13387;LR
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;3214;NP
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;7271;DL
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;130919;ab
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;5092;bl
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863;2246;nu
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;702;LO
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;1957;PC
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;24539;LR
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;3500;Ré
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;34588;RN
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;7347;Re
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;13559;LF
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;1483;PS
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;3130;EE
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;4403;LR
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;883;NP
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;2422;DL
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;34092;ab
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;1509;bl
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477;691;nu
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;2952;LO
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;11529;PC
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;152740;LR
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;14399;Ré
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;102856;RN
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;26595;Re
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;84200;LF
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;8267;PS
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;27036;EE
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;22838;LR
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;4376;NP
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;9586;DL
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;130520;ab
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;7959;bl
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904;3119;nu
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;3499;LO
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;8750;PC
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;136366;LR
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;14163;Ré
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;159254;RN
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;39369;Re
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;100159;LF
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;7534;PS
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;18931;EE
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;19300;LR
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;4343;NP
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;12651;DL
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;210299;ab
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;7943;bl
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233;3353;nu
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;833;LO
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;4281;PC
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;28686;LR
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;4106;Ré
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;32838;RN
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;7378;Re
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;19930;LF
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;2160;PS
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;3552;EE
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;5172;LR
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;1010;NP
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;2495;DL
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;38850;ab
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;1957;bl
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876;938;nu
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;7673;LO
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;45902;PC
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;336138;LR
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;22459;Ré
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;373127;RN
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;73168;Re
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;279785;LF
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;18215;PS
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;46962;EE
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;42470;LR
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;8265;NP
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;20617;DL
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;514033;ab
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;17416;bl
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688;7676;nu
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;2859;LO
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;9054;PC
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;100043;LR
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;9179;Ré
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;132873;RN
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;30333;Re
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;79446;LF
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;4251;PS
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;13785;EE
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;17450;LR
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;3048;NP
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;9393;DL
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;142081;ab
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;6324;bl
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689;4002;nu
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;1203;LO
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;3261;PC
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;46005;LR
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;4895;Ré
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;41804;RN
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;8910;Re
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;22993;LF
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;2368;PS
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;5513;EE
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;8838;LR
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;1334;NP
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;3826;DL
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;50935;ab
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;2586;bl
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474;1067;nu
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;2891;LO
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;17267;PC
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;372820;LR
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;12139;Ré
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;58429;RN
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;86088;Re
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;317372;LF
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;22901;PS
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;80268;EE
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;69564;LR
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;5732;NP
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;9591;DL
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;296668;ab
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;11028;bl
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925;5267;nu
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;5887;LO
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;26146;PC
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;194610;LR
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;17010;Ré
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;305816;RN
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;40764;Re
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;124741;LF
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;11619;PS
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;19295;EE
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;25307;LR
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;5488;NP
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;13970;DL
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;286319;ab
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;10601;bl
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307;6150;nu
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;2556;LO
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;12713;PC
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;100134;LR
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;16136;Ré
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;78182;RN
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;20624;Re
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;74534;LF
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;8216;PS
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;17029;EE
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;17352;LR
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;3189;NP
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;6922;DL
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;100869;ab
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;6938;bl
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527;2709;nu
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;1677;LO
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;10170;PC
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;111610;LR
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;48246;Ré
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;69768;RN
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;25877;Re
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;76030;LF
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;9276;PS
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;19967;EE
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;17166;LR
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;4982;NP
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;6721;DL
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;110134;ab
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;5816;bl
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708;2489;nu
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;1312;LO
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;6509;PC
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;55169;LR
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;11690;Ré
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;87930;RN
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;24782;Re
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;51556;LF
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;5013;PS
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;8588;EE
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;8815;LR
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;1995;NP
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;5209;DL
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;87704;ab
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;3528;bl
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034;2276;nu
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;3774;LO
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;15938;PC
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;278243;LR
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;17572;Ré
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;150463;RN
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;74168;Re
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;229036;LF
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;15895;PS
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;51907;EE
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;50263;LR
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;5267;NP
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;16487;DL
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;255580;ab
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;12708;bl
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012;3925;nu
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;2150;LO
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;6908;PC
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;83876;LR
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;7546;Ré
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;82234;RN
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;16218;Re
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;54244;LF
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;5409;PS
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;13541;EE
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;15937;LR
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;2505;NP
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;6494;DL
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;105454;ab
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;6694;bl
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403;2098;nu
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;1205;LO
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;5536;PC
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;64689;LR
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;8081;Ré
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;56733;RN
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;18045;Re
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;49858;LF
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;4418;PS
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;15642;EE
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;13608;LR
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;1849;NP
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;6694;DL
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;68929;ab
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;3931;bl
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515;1491;nu
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;1979;LO
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;7419;PC
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;82633;LR
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;10186;Ré
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;81970;RN
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;20686;Re
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;52336;LF
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;6037;PS
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;10730;EE
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;15210;LR
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;2369;NP
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;7745;DL
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;95369;ab
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;5923;bl
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965;2400;nu
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;3440;LO
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;12843;PC
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;165208;LR
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;13797;Ré
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;155738;RN
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;47893;Re
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;170969;LF
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;7853;PS
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;26718;EE
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;36828;LR
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;4600;NP
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;15042;DL
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;223172;ab
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;11057;bl
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682;4145;nu
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;4433;LO
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;19896;PC
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;179698;LR
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;13588;Ré
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;177806;RN
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;33361;Re
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;136136;LF
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;11139;PS
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;24785;EE
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;24281;LR
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;5477;NP
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;12365;DL
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;222147;ab
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;10982;bl
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546;3158;nu
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;2756;LO
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;11642;PC
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;110118;LR
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;6805;Ré
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;64543;RN
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;27969;Re
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;266632;LF
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;5890;PS
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;19352;EE
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;17481;LR
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;3663;NP
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;6300;DL
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;239927;ab
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;7607;bl
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726;3244;nu
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;2486;LO
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;7706;PC
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;83107;LR
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;7371;Ré
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;98024;RN
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;16885;Re
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;52343;LF
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;3746;PS
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;8048;EE
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;11380;LR
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;2206;NP
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;5616;DL
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;102687;ab
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;4837;bl
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802;3614;nu
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;1175;LO
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;5313;PC
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;53925;LR
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;17010;Ré
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;56543;RN
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;15982;Re
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;48430;LF
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;5818;PS
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;8680;EE
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;10014;LR
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;1829;NP
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;5123;DL
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;62818;ab
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;3451;bl
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240;2067;nu
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;679;LO
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;3628;PC
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;31737;LR
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;9573;Ré
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;42183;RN
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;11772;Re
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;27881;LF
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;3069;PS
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;4835;EE
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;5994;LR
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;1057;NP
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;3412;DL
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;39625;ab
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;2169;bl
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564;1092;nu
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;560;LO
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;1485;PC
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;16768;LR
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;2000;Ré
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;19061;RN
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;5583;Re
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;14601;LF
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;1052;PS
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;2798;EE
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;3322;LR
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;603;NP
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;1821;DL
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;22238;ab
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;1242;bl
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444;590;nu
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;2392;LO
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;10060;PC
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;138166;LR
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;9101;Ré
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;91081;RN
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;37564;Re
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;175666;LF
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;6094;PS
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;20710;EE
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;26403;LR
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;3352;NP
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;8996;DL
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;192853;ab
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;8027;bl
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846;3064;nu
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;2504;LO
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;14954;PC
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;171409;LR
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;8944;Ré
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;69599;RN
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;43430;Re
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;192427;LF
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;8276;PS
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;31904;EE
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;32522;LR
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;3730;NP
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;9359;DL
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;195409;ab
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;8501;bl
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800;3118;nu
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;2098;LO
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;10672;PC
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;142335;LR
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;17784;Ré
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;183287;RN
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;79329;Re
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;89272;LF
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;5703;PS
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;21044;EE
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;28342;LR
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;3578;NP
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;15286;DL
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;211212;ab
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;7803;bl
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660;3159;nu
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;1221;LO
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;6247;PC
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;66885;LR
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;9843;Ré
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;89413;RN
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;30473;Re
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;63049;LF
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;3769;PS
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;12128;EE
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;11918;LR
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;2023;NP
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;6896;DL
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;101650;ab
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;4350;bl
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933;1742;nu
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;2647;LO
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;8153;PC
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;149587;LR
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;13039;Ré
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;97280;RN
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;25663;Re
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;60524;LF
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;7244;PS
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;19753;EE
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;22534;LR
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;3621;NP
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;9664;DL
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;120547;ab
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;7312;bl
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814;3395;nu
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;1715;LO
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;6412;PC
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;67831;LR
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;7741;Ré
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;54214;RN
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;11939;Re
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;49162;LF
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;4542;PS
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;10727;EE
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;9959;LR
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;2315;NP
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;5095;DL
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;68304;ab
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;4053;bl
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232;2002;nu
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;1569;LO
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;3847;PC
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;51432;LR
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;7203;Ré
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;65646;RN
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;13184;Re
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;32655;LF
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;3114;PS
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;7562;EE
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;9344;LR
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;1986;NP
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;6152;DL
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;68914;ab
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;3431;bl
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665;1874;nu
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;1203;LO
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;4023;PC
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;42617;LR
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;5356;Ré
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;55164;RN
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;12941;Re
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;31601;LF
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;2286;PS
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;5917;EE
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;9322;LR
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;1487;NP
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;4594;DL
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;57549;ab
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;2715;bl
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600;1182;nu
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;2774;LO
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;11721;PC
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;246062;LR
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;13687;Ré
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;101398;RN
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;64407;Re
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;168585;LF
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;9046;PS
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;40470;EE
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;61296;LR
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;3963;NP
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;13097;DL
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;211708;ab
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;9601;bl
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527;3430;nu
