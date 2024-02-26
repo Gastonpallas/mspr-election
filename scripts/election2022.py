@@ -18,5 +18,6 @@ df_correspondance = pd.DataFrame(correspondance_partis)
 
 df = pd.merge(df, df_correspondance, on='nom', how='left')
 df = df.drop('nom', axis=1)
+df.drop(df[(df['code_departement'] == '986') | (df['code_departement'] == '987') | (df['code_departement'] == '988') | (df['code_departement'] == '989')].index, inplace=True)
 
 df.to_csv(output_path, index=False)
