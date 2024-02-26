@@ -1,0 +1,97 @@
+code_departement;nom_departement;total_population;Chômage;code_region;nom_region;Nombre de créations d'entreprises
+01;Ain                    ;671937;5.4;84;Auvergne-Rhône-Alpes      ;8417
+02;Aisne                  ;522791;10.4;32;Hauts-de-France           ;4422
+03;Allier                 ;332443;7.6;84;Auvergne-Rhône-Alpes      ;3355
+04;Alpes-de-Haute-Provence;166654;8.2;93;Provence-Alpes-Côte d'Azur;2629
+06;Alpes-Maritimes        ;1110328;7.4;93;Provence-Alpes-Côte d'Azur;28273
+08;Ardennes               ;265417;9.4;44;Grand Est                 ;2533
+07;Ardèche                ;332230;8;84;Auvergne-Rhône-Alpes      ;4342
+09;Ariège                 ;154581;9.4;76;Occitanie                 ;2074
+10;Aube                   ;312713;9.5;44;Grand Est                 ;3559
+11;Aude                   ;379775;10;76;Occitanie                 ;5394
+12;Aveyron                ;279504;5.7;76;Occitanie                 ;3219
+67;Bas-Rhin               ;1168422;6.2;44;Grand Est                 ;15712
+13;Bouches-du-Rhône       ;2069118;8.8;93;Provence-Alpes-Côte d'Azur;45496
+14;Calvados               ;700595;6.4;28;Normandie                 ;8602
+15;Cantal                 ;143639;4;84;Auvergne-Rhône-Alpes      ;1266
+16;Charente               ;351036;6.9;75;Nouvelle-Aquitaine        ;3870
+17;Charente-Maritime      ;665904;6.9;75;Nouvelle-Aquitaine        ;9425
+18;Cher                   ;297274;7.4;24;Centre-Val de Loire       ;2944
+19;Corrèze                ;237077;6;75;Nouvelle-Aquitaine        ;2587
+2A;Corse-du-Sud           ;163955;5.8;94;Corse                     ;3226
+23;Creuse                 ;113106;7;75;Nouvelle-Aquitaine        ;1015
+21;Côte-d'Or              ;536166;5.6;27;Bourgogne-Franche-Comté   ;6758
+22;Côtes-d'Armor          ;607834;6.3;53;Bretagne                  ;6416
+79;Deux-Sèvres            ;373899;5.3;75;Nouvelle-Aquitaine        ;3420
+24;Dordogne               ;411382;7.2;75;Nouvelle-Aquitaine        ;5293
+25;Doubs                  ;550112;6.5;27;Bourgogne-Franche-Comté   ;6140
+26;Drôme                  ;523185;7.8;84;Auvergne-Rhône-Alpes      ;7427
+91;Essonne                ;1316053;6.4;11;Île-de-France             ;23093
+27;Eure                   ;596710;7;28;Normandie                 ;6626
+28;Eure-et-Loir           ;428994;6.7;24;Centre-Val de Loire       ;4905
+29;Finistère              ;926065;6.1;53;Bretagne                  ;9302
+30;Gard                   ;757435;9.9;76;Occitanie                 ;11675
+32;Gers                   ;192820;5.7;76;Occitanie                 ;2434
+33;Gironde                ;1691437;6.6;75;Nouvelle-Aquitaine        ;32877
+68;Haut-Rhin              ;769231;6.9;44;Grand Est                 ;8749
+2B;Haute-Corse            ;187300;6.4;94;Corse                     ;2861
+31;Haute-Garonne          ;1470367;7.4;76;Occitanie                 ;25199
+43;Haute-Loire            ;226878;5.6;84;Auvergne-Rhône-Alpes      ;2537
+52;Haute-Marne            ;167544;6.3;44;Grand Est                 ;1466
+74;Haute-Savoie           ;862267;5.4;84;Auvergne-Rhône-Alpes      ;13759
+70;Haute-Saône            ;231773;6.4;27;Bourgogne-Franche-Comté   ;2185
+87;Haute-Vienne           ;370113;6.5;75;Nouvelle-Aquitaine        ;4081
+05;Hautes-Alpes           ;139942;6.8;93;Provence-Alpes-Côte d'Azur;2484
+65;Hautes-Pyrénées        ;230583;7.9;76;Occitanie                 ;2986
+92;Hauts-de-Seine         ;1642002;5.9;11;Île-de-France             ;36273
+34;Hérault                ;1232805;10.1;76;Occitanie                 ;23697
+35;Ille-et-Vilaine        ;1118600;5.4;53;Bretagne                  ;14477
+36;Indre                  ;214914;7.1;24;Centre-Val de Loire       ;1923
+37;Indre-et-Loire         ;618016;6.5;24;Centre-Val de Loire       ;8165
+38;Isère                  ;1294476;5.9;84;Auvergne-Rhône-Alpes      ;19361
+39;Jura                   ;256814;5.1;27;Bourgogne-Franche-Comté   ;2781
+40;Landes                 ;428669;6.9;75;Nouvelle-Aquitaine        ;6353
+41;Loir-et-Cher           ;326465;6;24;Centre-Val de Loire       ;3585
+42;Loire                  ;772342;7.1;84;Auvergne-Rhône-Alpes      ;10155
+44;Loire-Atlantique       ;1497313;5.7;52;Pays de la Loire          ;20606
+45;Loiret                 ;686615;7.1;24;Centre-Val de Loire       ;8276
+46;Lot                    ;175308;7.3;76;Occitanie                 ;2117
+47;Lot-et-Garonne         ;328309;7.4;75;Nouvelle-Aquitaine        ;4179
+48;Lozère                 ;76648;4.6;76;Occitanie                 ;721
+49;Maine-et-Loire         ;828269;6.5;52;Pays de la Loire          ;9515
+50;Manche                 ;492642;5.1;28;Normandie                 ;4244
+51;Marne                  ;564108;7.1;44;Grand Est                 ;7453
+53;Mayenne                ;305452;5;52;Pays de la Loire          ;3236
+54;Meurthe-et-Moselle     ;729477;7;44;Grand Est                 ;7863
+55;Meuse                  ;178010;7.2;44;Grand Est                 ;1477
+56;Morbihan               ;777383;5.8;53;Bretagne                  ;8904
+57;Moselle                ;1051456;7.2;44;Grand Est                 ;11233
+58;Nièvre                 ;197857;6.7;27;Bourgogne-Franche-Comté   ;1876
+59;Nord                   ;2606646;9.2;32;Hauts-de-France           ;32688
+60;Oise                   ;833259;7.4;32;Hauts-de-France           ;9689
+61;Orne                   ;272872;6.6;28;Normandie                 ;2474
+75;Paris                  ;2102650;5.7;11;Île-de-France             ;88925
+62;Pas-de-Calais          ;1453934;8.2;32;Hauts-de-France           ;13307
+63;Puy-de-Dôme            ;669117;6.3;84;Auvergne-Rhône-Alpes      ;8527
+64;Pyrénées-Atlantiques   ;697899;5.7;75;Nouvelle-Aquitaine        ;10708
+66;Pyrénées-Orientales    ;490594;11.6;76;Occitanie                 ;8034
+69;Rhône                  ;1921014;6.3;84;Auvergne-Rhône-Alpes      ;39012
+72;Sarthe                 ;567118;7.1;52;Pays de la Loire          ;5403
+73;Savoie                 ;447797;5.3;84;Auvergne-Rhône-Alpes      ;7515
+71;Saône-et-Loire         ;547362;6.4;27;Bourgogne-Franche-Comté   ;5965
+77;Seine-et-Marne         ;1452775;6.7;11;Île-de-France             ;23682
+76;Seine-Maritime         ;1254204;7.9;28;Normandie                 ;13546
+93;Seine-Saint-Denis      ;1682806;10.2;11;Île-de-France             ;38726
+80;Somme                  ;564067;8.7;32;Hauts-de-France           ;5802
+81;Tarn                   ;394546;7.8;76;Occitanie                 ;5240
+82;Tarn-et-Garonne        ;266039;8.6;76;Occitanie                 ;3564
+90;Territoire de Belfort  ;136891;8.2;27;Bourgogne-Franche-Comté   ;1444
+95;Val-d'Oise             ;1274374;8.1;11;Île-de-France             ;23846
+94;Val-de-Marne           ;1426748;7.2;11;Île-de-France             ;28800
+83;Var                    ;1110260;7.4;93;Provence-Alpes-Côte d'Azur;21660
+84;Vaucluse               ;563789;9.5;93;Provence-Alpes-Côte d'Azur;9933
+85;Vendée                 ;709274;5.2;52;Pays de la Loire          ;7814
+86;Vienne                 ;441534;5.9;75;Nouvelle-Aquitaine        ;5232
+88;Vosges                 ;355884;7.4;44;Grand Est                 ;3665
+89;Yonne                  ;329321;6.7;27;Bourgogne-Franche-Comté   ;3600
+78;Yvelines               ;1461524;6.4;11;Île-de-France             ;25527
