@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import pandas as pd
 
 df = pd.read_csv('https://www.data.gouv.fr/fr/datasets/r/db89a4c3-18b5-4c3a-bffc-d69cbc507997')

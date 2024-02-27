@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import pandas as pd
 
 df = pd.read_csv('./data_raw/base-des-lieux-et-des-equipements-culturels.csv', sep=';', low_memory=False)
