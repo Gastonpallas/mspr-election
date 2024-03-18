@@ -19,4 +19,5 @@ with warnings.catch_warnings():
     df_mean['Libellé'] = df_mean['Libellé'].str.replace('Taux de chômage localisé par département - ', '')
     df_sorted = df_mean.sort_values(by='Libellé', ascending=True)
 
-df_sorted.to_csv('./data_clean/chomage.csv', index=False)
+df_sorted = df_sorted.rename(columns={'2022': 'Taux de chômage'})
+# df_sorted.to_csv('./data_clean/chomage.csv', index=False)
