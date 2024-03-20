@@ -452,6 +452,26 @@
       <to>Sort rows 2</to>
       <enabled>Y</enabled>
     </hop>
+    <hop>
+      <from>Select values</from>
+      <to>Text file output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort rows</from>
+      <to>Merge join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort rows 2</from>
+      <to>Merge join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Merge join</from>
+      <to>Select values</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
   <step>
     <name>Extraction donnée élection 2022 France</name>
@@ -464,7 +484,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${Internal.Entry.Current.Directory}/data_clean/election2022.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/data_refactor/election2022.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -491,7 +511,7 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>voix</name>
+        <name>DLF</name>
         <type>Integer</type>
         <format>#</format>
         <currency>$</currency>
@@ -502,13 +522,167 @@
         <trim_type>none</trim_type>
       </field>
       <field>
-        <name>parti_politique</name>
+        <name>EELV</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>LFI</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>LO</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>LR</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>LREM</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>NPA</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>PCF</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>PS</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>RN</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>Reconuête</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>Résistons</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>abstentions</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>blancs</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>nuls</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <length>15</length>
+        <precision>0</precision>
+        <trim_type>none</trim_type>
+      </field>
+      <field>
+        <name>gagnant</name>
         <type>String</type>
         <format/>
         <currency>$</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>2</length>
+        <length>4</length>
         <precision>-1</precision>
         <trim_type>none</trim_type>
       </field>
@@ -547,7 +721,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>nom_departement</name>
+        <name>code_departement</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -707,7 +881,7 @@
     <unique_rows>N</unique_rows>
     <fields>
       <field>
-        <name>Département</name>
+        <name>code_departement</name>
         <ascending>Y</ascending>
         <case_sensitive>N</case_sensitive>
         <collator_enabled>N</collator_enabled>
@@ -725,6 +899,212 @@
     </remotesteps>
     <GUI>
       <xloc>416</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Select values</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <select_unspecified>N</select_unspecified>
+      <remove>
+        <name>code_departement_1</name>
+      </remove>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>743</xloc>
+      <yloc>208</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Text file output</name>
+    <type>TextFileOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <separator>;</separator>
+    <enclosure>"</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>UTF-8</encoding>
+    <endedLine/>
+    <fileNameInField>N</fileNameInField>
+    <fileNameField/>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>${Internal.Entry.Current.Directory}/data_merge/merge_v2.2</name>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <extention>csv</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format/>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery/>
+    </file>
+    <fields>
+      <field>
+        <name>code_departement</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>2</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>total_population</name>
+        <type>Number</type>
+        <format>#.#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>1</precision>
+      </field>
+      <field>
+        <name>Département</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>23</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>Taux de chômage</name>
+        <type>Number</type>
+        <format>#.#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>18</length>
+        <precision>16</precision>
+      </field>
+      <field>
+        <name>code_region</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>15</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>nom_region</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>26</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>Nombre de créations d'entreprises</name>
+        <type>Integer</type>
+        <format>#</format>
+        <currency>$</currency>
+        <decimal>.</decimal>
+        <group>,</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>15</length>
+        <precision>0</precision>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>936</xloc>
+      <yloc>270</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Merge join</name>
+    <type>MergeJoin</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <join_type>FULL OUTER</join_type>
+    <step1>Sort rows</step1>
+    <step2>Sort rows 2</step2>
+    <keys_1>
+      <key>code_departement</key>
+    </keys_1>
+    <keys_2>
+      <key>code_departement</key>
+    </keys_2>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>624</xloc>
       <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
